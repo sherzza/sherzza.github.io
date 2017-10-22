@@ -10,11 +10,17 @@ header{
   background-color: #E5E5E5;
   height:50px;
   width: 100%;
+  margin:0;
+  padding:0;
+  border:0;
 }
 .nav {
   list-style-type:none;
   text-align: center;
   background-color: #E5E5E5;
+  margin:0;
+  padding:0;
+  border:0;
 }
 .nav li{
   display:inline;
@@ -29,4 +35,7 @@ header{
 }
 .to-do-list{
   color: #000;
+}
+body{
+  margin-top:0;
 }
