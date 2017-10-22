@@ -1,39 +1,32 @@
 <Style type="text/css">
 
-.header {
-  text-align:center;
-  color: #FFFFFF;
+head{
+  display:none;
 }
-
 p {
-  color: #Fede14;
+  color: #000;
 }
-
-body{
-  background-image: url(../IMG_0201.JPG);
-  background-repeat:no-repeat;
-    
-  padding-top: 5px;
+header{
+  background-color: #E5E5E5;
+  height:50px;
+  width: 100%;
 }
 .nav {
   list-style-type:none;
   text-align: center;
+  background-color: #E5E5E5;
 }
 .nav li{
-  border: 3px  #FFFFFF;
   display:inline;
-  padding-right: 40px;
 }
 .nav li a{
+  color: #4F4F4F;
+  font-family: helvetica;
+  margin-right: 30px;
   text-decoration: none;
-  color: #FFFFFF;
-}
 
-.content {
-  padding-top: 10px;
-  border:0px;
-  margin: 0px;
+}
 }
 .to-do-list{
-  color: #FFab51
+  color: #000;
 }
