@@ -19,7 +19,7 @@ header{
   text-align: center;
   background-color: #E5E5E5;
   margin:0;
-  padding-top:8px;
+  padding-top:10px;
   
 }
 .nav li{
@@ -30,9 +30,6 @@ header{
   font-family: helvetica;
   margin-right: 40px;
   text-decoration: none;
-  border: 1px #4f4f4f;
-  border-radius: 7%;
-  padding: 2px 3px 2px 4px;
 }
 .to-do-list{
   color: #000;
