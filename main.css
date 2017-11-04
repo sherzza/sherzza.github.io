@@ -19,8 +19,8 @@ header{
   text-align: center;
   background-color: #E5E5E5;
   margin:0;
-  padding:0;
-  border:0;
+  padding-top:8px;
+  
 }
 .nav li{
   display:inline;
@@ -28,14 +28,17 @@ header{
 .nav li a{
   color: #4F4F4F;
   font-family: helvetica;
-  margin-right: 30px;
+  margin-right: 40px;
   text-decoration: none;
-
-}
+  border: 1px #4f4f4f;
+  border-radius: 7%;
+  padding: 2px 3px 2px 4px;
 }
 .to-do-list{
   color: #000;
 }
 body{
   margin-top:0;
+  margin-right: 40px;
+  margin-left: 40px;
 }
