@@ -18,24 +18,27 @@ header{
   list-style-type:none;
   text-align: center;
   background-color: #E5E5E5;
-  margin-top:0;
-  margin-right:0;
-  margin-left:0;
+  margin:0;
+  padding-top:8px;
   
 }
 .nav li{
-  display:inline;  
+  display:inline;
 }
 .nav li a{
   color: #4F4F4F;
-  font-family: Verdana;
+  font-family: helvetica;
   margin-right: 40px;
   text-decoration: none;
-  padding-top:10px;
+  border: 1px #4f4f4f;
+  border-radius: 7%;
+  padding: 2px 3px 2px 4px;
 }
 .to-do-list{
   color: #000;
+  text-align: center;
 }
 body{
   margin-top:0;
+}
 }
