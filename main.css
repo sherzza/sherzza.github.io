@@ -18,16 +18,19 @@ header{
   list-style-type:none;
   text-align: center;
   background-color: #E5E5E5;
-  margin:0;
-  padding-top:40px;
+  margin-top:0;
+  margin-right:0;
+  margin-left:0;
   
 }
 .nav li{
   display:inline;
+  padding-top:10px;
+  
 }
 .nav li a{
   color: #4F4F4F;
-  font-family: helvetica;
+  font-family: Verdana;
   margin-right: 40px;
   text-decoration: none;
 }
