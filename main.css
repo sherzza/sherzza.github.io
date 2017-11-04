@@ -24,15 +24,14 @@ header{
   
 }
 .nav li{
-  display:inline;
-  padding-top:10px;
-  
+  display:inline;  
 }
 .nav li a{
   color: #4F4F4F;
   font-family: Verdana;
   margin-right: 40px;
   text-decoration: none;
+  padding-top:10px;
 }
 .to-do-list{
   color: #000;
