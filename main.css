@@ -7,8 +7,8 @@ p {
   color: #000;
 }
 header{
-  background-color: #E5E5E5;
-  height:50px;
+  background-color: #000;
+  height:60px;
   width: 100%;
   margin:0;
   padding:0;
@@ -17,22 +17,22 @@ header{
 .nav {
   list-style-type:none;
   text-align: center;
-  background-color: #E5E5E5;
+  background-color: #000;
   margin:0;
-  padding-top:8px;
+  padding-top:10px;
   
 }
 .nav li{
   display:inline;
 }
 .nav li a{
-  color: #4F4F4F;
+  color: #fff;
   font-family: helvetica;
   margin-right: 40px;
   text-decoration: none;
-  border: 1px #4f4f4f;
-  border-radius: 7%;
-  padding: 2px 3px 2px 4px;
+}
+.nav li a:hover{
+ color: #4f4f4f; 
 }
 .to-do-list{
   color: #000;
@@ -41,4 +41,4 @@ header{
 body{
   margin-top:0;
 }
-}
+
