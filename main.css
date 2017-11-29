@@ -41,4 +41,9 @@ header{
 body{
   margin:0;
 }
+.background{
+  position: relative;
+  width:100%;
+  padding: 4 4 4 4;
+}
 
