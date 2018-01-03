@@ -1,9 +1,28 @@
+<<<<<<< HEAD
 /* Navigation*/
 header{
   background-color: #2A96B2;
   height:65px;
   position: fixed;
   width: 100%;}     
+=======
+<Style type="text/css">
+
+head{
+  display:none;
+}
+p {
+  color: #000;
+}
+header{
+  background-color: #000;
+  height:65px;
+  width: 100%;
+  margin-top:0;
+  margin-right:0;
+  margin-left:0;
+}
+>>>>>>> 9b6128dbdc04a09b59d0be938ae8b7498c61311a
 .nav {
   background-color: #2A96B2;  
   list-style-type:none;
@@ -11,6 +30,7 @@ header{
   padding-top:15px; 
   position:fixed; 
   text-align: center;
+<<<<<<< HEAD
   width:100%;
 }
 .nav img{
@@ -20,6 +40,12 @@ header{
 }
 .nav ul{
   margin-top:15px;
+=======
+  background-color: #000;
+  margin:0;
+  padding-top:15px;
+  
+>>>>>>> 9b6128dbdc04a09b59d0be938ae8b7498c61311a
 }
 .nav li{
   display:inline;
@@ -29,6 +55,7 @@ header{
   font-family: helvetica;
   margin-right: 40px;
   text-decoration: none;
+<<<<<<< HEAD
 
 }
 .nav li a:hover{
@@ -63,4 +90,23 @@ max-width: 100%;
 .sectionOne .otherSkills{
   float: right;
   
+=======
 }
+.nav li a:hover{
+ color: #50CEEF;             
+}
+.to-do-list{
+  color: #000;
+  text-align: center;
+>>>>>>> 9b6128dbdc04a09b59d0be938ae8b7498c61311a
+}
+body{
+  margin:0;
+}
+img
+{
+  position: relative;
+  width:100px;
+  padding: 4 4 4 4;
+}
+
